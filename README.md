@@ -17,7 +17,7 @@
 # 📸 Dashboard Preview
 
 <p align="center">
-<img src="Images/dashboard.png" width="100%">
+<img src="dashboard.png" width="100%">
 </p>
 
 ---
