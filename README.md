@@ -299,9 +299,9 @@ B.Tech Artificial Intelligence & Machine Learning
 
 Aspiring Data Analyst | Power BI | SQL | Python
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/milind007K
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/milind-khorgade-355b70324/
 
 ---
 
